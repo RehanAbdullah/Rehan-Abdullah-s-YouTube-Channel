@@ -1,0 +1,17 @@
+
+public class Program {
+
+	public static void main(String[] args) {
+
+		int a = 20;
+		int b = 5;
+
+		System.out.println("I am " + a + " years old" );
+
+		System.out.println("I have " + b + " cars ");
+
+
+
+	}
+
+}

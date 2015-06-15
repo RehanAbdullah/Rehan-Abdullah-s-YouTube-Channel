@@ -1,0 +1,26 @@
+
+public class Program {
+
+	public static void main(String[] args) {
+
+		int a = 20;  //Integers
+		int b = 5;   //Integers
+		
+		double r = 10.8878;
+		
+
+		System.out.println("I am " + a + " years old.\n" + "I have " + b + " cars " );
+		
+		
+
+		
+	//	System.out.println(a1);
+		System.out.println(r);
+
+
+		
+
+
+	}
+
+}

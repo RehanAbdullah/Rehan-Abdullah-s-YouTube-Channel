@@ -1,0 +1,21 @@
+
+public class Program {
+
+	public static void main(String[] args) {
+
+		int a = 20;  //Integers
+		int b = 5;   //Integers
+		boolean c = true;
+
+		System.out.println("I am " + a + " years old.\n" + "I have " + b + " cars " );
+
+
+
+		if (c) {
+			System.out.println("Hello");
+		}
+
+
+	}
+
+}

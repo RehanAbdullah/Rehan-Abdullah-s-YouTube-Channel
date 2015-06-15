@@ -1,0 +1,26 @@
+
+public class Grade {
+
+	public static void main(String[] args) {
+
+		int a;
+
+		a = 75;
+
+		if (a < 40) {
+			System.out.println("FAIL");
+		}
+		else if (a > 40 && a < 59) {
+			System.out.println("PASS");
+		}
+		else if (a > 60 && a < 70) {
+			System.out.println("MERIT");
+		}
+		else {
+			System.out.println("DISTINCTION");
+			
+		}
+
+	}
+
+}
